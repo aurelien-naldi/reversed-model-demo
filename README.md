@@ -8,5 +8,6 @@ Operations on sets of states then allow to compute the strong basin of attractio
 
 Further analysis enables to study the boundaries of these basins.
 
-This notebook can be launched using the [CoLoMoTo Docker image](http://colomoto.org/notebook)
+This notebook can be launched using the [CoLoMoTo Docker image](http://colomoto.org/notebook) or directly in mybinder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aurelien-naldi/reversed-model-demo/master?filepath=reverse-demo)
 
