@@ -1,5 +1,7 @@
 # Demo of the use of reversed model to study basins of attraction
 
+This is a reboot of [earlier work](http://ginsim.org/basins-reverse) using the CoLoMoTo notebook.
+
 The python notebook uses [bioLQM](http://colomoto.org/biolqm) to construct reversed logical models and then calls
 [BoolSim](https://www.vital-it.ch/research/software/boolSim) to identify attractors of the original model and their
 backward reachable states using the reversed model (weak basins of attractions).
